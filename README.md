@@ -18,3 +18,6 @@ C:\Users\Usuario\Desktop\curso_angular\node-api-rest2>node app
 C:\Users\Usuario\Desktop\curso_angular\SPA-API2\nodeMensajeria>npm start
 
 -Agregar http://localhost:3200 y  http://localhost:3000  como excepcion de seguridad para el correcto envio de email
+
+-Correr aplicacion
+C:\Users\Usuario\Desktop\curso_angular\SPA-API2\ng serve --open
